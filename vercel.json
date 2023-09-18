@@ -6,5 +6,5 @@
     "regions": [
         "sfo1"
     ],
-    "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+    "rewrites": [{ "source": "/(.*)", "destination": "/src/index.html" }]
 }
