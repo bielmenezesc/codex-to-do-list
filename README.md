@@ -1,8 +1,8 @@
 # Desafio Codex - To-Do List
 
-![To-Do List Screenshot](https://i.imgur.com/z6vsWvU.png)
-
 Este é um projeto simples de uma To-Do List para o desafio da Codex. O objetivo desta aplicação é permitir que os usuários criem, rasurem e deletem tarefas diárias de maneira eficaz.
+
+![To-Do List Screenshot](https://i.imgur.com/z6vsWvU.png)
 
 ## Funcionalidades
 
